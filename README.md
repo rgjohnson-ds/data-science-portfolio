@@ -1,4 +1,4 @@
-# Data Science Portfolio – Rose Johnson
+# Data Science Portfolio – Rose Grace Johnson
 
 Hi 👋 I’m Rose, a Master of Data Science student at Macquarie University (Sydney).  
 
